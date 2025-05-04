@@ -1,3 +1,4 @@
+#모듈 호출
 import random as r
 
 def ans_num():
